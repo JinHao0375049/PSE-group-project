@@ -5,4 +5,4 @@ This is our read me file for our group project
 Team members:
 1) Soo Jin Hao 0375049
 2) Prishi Saxena 0387280
-3) Wu JinHong
+3) Wu JinHong 0390660
