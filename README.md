@@ -19,4 +19,10 @@ Our application addresses this problem by automating the planning process. The a
 Our target audience are mainly high schoolers who aim to deepen their understanding of the subjects being taught in school or explore other subjects beyond their school curriculum. Unlike other learning platforms that sell courses with a fixed structure, our application offers a more personalized experience depending on the student's needs.
 
 
-Overview of Your SDLC Work : short summary of how you went through planning, design, testing/evaluation.
+Overview of Your SDLC Work : 
+
+Planning: In the planning phase, we first formed our communication channel through Whatsapp Groupchat and voted on which SDG topic we wanted to pick. Afterwards, we brainstormed for possible software solutions and combined ideas from different prespectives into a singular idea which we can work on. We then assigned roles based on each member's strenght and preferrences at the same time setting up initial tasks to be done in our Kanban Board(Trello).
+
+Design: During the design phase, we created our Use case diagram and Class diagram using online tools like Draw.io and for the UI we used Figma as it contains tools tailored towards UI design. These designs help us visualize our system's structure, user interactions and overall look of our prototype.
+
+Testing: 
