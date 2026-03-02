@@ -1,6 +1,6 @@
 # PSE-group-project
 
-Project Title: 
+Project Title: Guided Learning Roadmap Platform
 
 Chosen SDG: Quality Education (SDG 4)
 
