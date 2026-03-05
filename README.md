@@ -8,8 +8,8 @@ Team members / Roles:
 1) Soo Jin Hao 0375049 (Group Leader), GitHub Manager/ System Analyst / System Designer 
 2) Prishi Saxena 0387280, Trello Manager
 3) Wu JinHong 0390660, System Designer
-4) Teoh Kye Xen 0374502, System Designer / UI Designer
-5) Ryo Nishikawa 0386149, 
+4) Teoh Kye Xen 0374502, System Designer / UI Designer / System Analyst
+5) Ryo Nishikawa 0386149, Tester / Lead Documenter
 
 Project Description : 
 Students often struggle structuring their learning journey, when attempting to learn a new subject. Without proper guidance, students may spend excessive amounts of time planning rather on actual learning and when that planning is flawed it can lead to frustration and abandonment of their goals. 
