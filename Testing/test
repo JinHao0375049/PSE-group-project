@@ -1,8 +1,25 @@
-figma'snew link
-https://www.figma.com/design/1AKqXN72Safv98D53pqsRd/PSE-Prototype-version2?node-id=0-1&t=rzppIcqfOED7Fh4c-1
+During the testing phase, we focused on the following key activities to ensure our prototype functions as intended.
 
-To evaluate our project, we conducted User Acceptance Testing.
-We asked a 19-year-old student to try our prototype and interviewed them to find out what they liked and what features they wanted.
+Verifying Requirements:
+We checked if our prototype met all the functional and non-functional requirements. During this check,
+we found that two main features were not good enough yet. 
+One was the feature that lets students view their learning roadmap. 
+The other was the feature that gives students access to learning resources like videos, articles, books, and exercises.
+Because these features did not work as well as we wanted, we fixed and improved the design so they meet our goals perfectly.
+
+Identifying and Fixing Bugs:
+We tested all the buttons to make sure they open the right screens.
+We also checked carefully to make sure no features were missing. 
+To prevent future bugs, we simplified the complex parts of our design so it is easier to understand and work with.
+
+Conducting Phased Testing:
+We performed Unit Testing and Integration Testing to make sure each feature works properly.
+During these tests, we noticed some UI mistakes and fixed them. 
+For example, we fixed a feature so that it stays fixed at the bottom of the screen when scrolling.
+
+User Acceptance Testing:
+To evaluate our project, we conducted User Acceptance Testing. 
+We asked a 19-year-old student to try our prototype and interviewed them to find out what they liked and what features they wanted. 
 They liked the bottom menu because it lets them access important features with just one tap.
-However, they suggested a major improvement: the roadmap would be much better if it included the student's current skill level.
+However, they suggested a major improvement: the roadmap would be much better if it included the student's current skill level. 
 Based on this valuable feedback, we added a new feature to make the roadmap creation more detailed and personalized.
