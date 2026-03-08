@@ -26,3 +26,12 @@ Planning: In the planning phase, we first formed our communication channel throu
 Design: During the design phase, we created our Use case diagram and Class diagram using online tools like Draw.io and for the UI we used Figma as it contains tools tailored towards UI design. These designs help us visualize our system's structure, user interactions and overall look of our prototype.
 
 Testing: 
+During the testing phase, we ensured our prototype worked perfectly through these key steps.
+Verifying Requirements:
+We improved the learning roadmap and resource access features so they fully meet our functional and non-functional goals.
+Identifying and Fixing Bugs:
+We tested all buttons for correct screen navigation and simplified complex design parts to prevent future bugs.
+Conducting Phased Testing:
+Through Unit and Integration Testing, we fixed UI mistakes, such as making the bottom menu stay fixed while scrolling.
+User Acceptance Testing:
+A 19-year-old student tested our prototype. They liked the easy-access bottom menu but suggested personalizing the roadmap based on current skill levels. We added this new feature based on their valuable feedback.
