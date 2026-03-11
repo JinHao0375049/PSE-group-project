@@ -16,7 +16,7 @@ Students often struggle structuring their learning journey, when attempting to l
 
 Our application addresses this problem by automating the planning process. The application will generate a learning roadmap tailored to the students goals. This can let students focus more on acutally learning towards their goals instead of focusing on how to actually get started. In addition to the roadmap, our application will recommend various online resources to aid the student's learning journey such as videos, books, articles and exercises for the students to explore which can help them reinforce their understanding. As for students who require deeper guidance, our application also features a chat function where students can get to chat with experts that are knowledgable in the related field, allowing them to ask questions and receive personalized feedback.
 
-Our target audience are mainly high schoolers who aim to deepen their understanding of the subjects being taught in school or explore other subjects beyond their school curriculum. Unlike other learning platforms that sell courses with a fixed structure, our application offers a more personalized experience depending on the student's needs.
+Our target audience are mainly high school students as well as university students who aim to deepen their understanding of the subjects being taught in school or explore other subjects beyond their school curriculum. Unlike other learning platforms that sell courses with a fixed structure, our application offers a more personalized experience depending on the student's needs.
 
 
 Overview of Your SDLC Work : 
